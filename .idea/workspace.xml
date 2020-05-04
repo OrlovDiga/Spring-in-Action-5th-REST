@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7abcf321-ac34-4955-b90f-725e2bca0aa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +53,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tacos" />
+      <recent name="$PROJECT_DIR$/tacocloud-web" />
+      <recent name="$PROJECT_DIR$/tacocloud-ui" />
+      <recent name="$PROJECT_DIR$/tacocloud-security" />
+      <recent name="$PROJECT_DIR$/tacocloud-restclient" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tacocloud-web/src/main/resources/static/images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tacocloud-web/src/main/resources" />
-      <recent name="$PROJECT_DIR$/tacocloud-web/src/main/resources/static" />
-      <recent name="$PROJECT_DIR$/tacocloud-web/src/main/resources/META-INF" />
-      <recent name="$PROJECT_DIR$/tacos/src/main/java" />
-      <recent name="$PROJECT_DIR$/tacocloud-web/src/main/java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RestExamples">
@@ -166,7 +159,7 @@
       <workItem from="1588405503897" duration="714000" />
       <workItem from="1588406226873" duration="138000" />
       <workItem from="1588406370322" duration="16360000" />
-      <workItem from="1588435898451" duration="12899000" />
+      <workItem from="1588435898451" duration="13061000" />
     </task>
     <servers />
   </component>
@@ -237,6 +230,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="540" y="282" width="603" height="538" key="find.popup/0.0.1680.1050/0.-1050.1680.1050@0.0.1680.1050" timestamp="1588524127227" />
+    <state x="591" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588587278914">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="591" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1680.1050/0.-1050.1680.1050@0.0.1680.1050" timestamp="1588587278914" />
     <state x="208" y="188" key="new project wizard" timestamp="1588581670943">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
