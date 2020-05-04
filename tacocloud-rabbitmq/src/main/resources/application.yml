@@ -1,0 +1,10 @@
+spring:
+  profiles: prod
+  rabbitmq:
+    host: rabbit.tacocloud.com
+    port: 5673
+    username:
+    password:
+    template:
+      exchange: tacocloud.orders
+      routing-key: kitchens.central
